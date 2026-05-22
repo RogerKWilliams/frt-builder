@@ -182,8 +182,7 @@ function App() {
         <AppContent />
         <footer className="app-disclaimer">
           Personal educational project. Not affiliated with Gartner; views are my own.{' '}
-          {/* placeholder REPO_URL — fill in when GitHub repo is published */}
-          <a href="<REPO_URL>" target="_blank" rel="noopener noreferrer">
+          <a href="https://github.com/RogerKWilliams/frt-builder" target="_blank" rel="noopener noreferrer">
             Source on GitHub →
           </a>
         </footer>
